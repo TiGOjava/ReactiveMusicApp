@@ -6,7 +6,7 @@
 
  [Spring Boot](http://projects.spring.io/spring-boot/) Music App.    
  
-## Requirements
+## Requirements 
   
 For building and running the application you need:
  
